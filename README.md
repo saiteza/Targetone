@@ -17,7 +17,11 @@ in particular link https://saiteza.github.io/Targetone/, the left side consists 
 🚀A/B test(A/B) 
    the first block space was used for a/b Targeting which considers the AUDIENCE of chrome(browser) and shuffles the 
    traffic using a/b test which includes two experiences 
+
+
    1.Large order? Get Large Discount
+
+
    2.20% off | Use code UNLIMITED
 
  🚀 Experience Targeting (XT)
