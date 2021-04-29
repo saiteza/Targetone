@@ -25,6 +25,10 @@ body {
     
 
   }
+.search-results>h1{
+    padding:20px;
+    font-size:40px;
+  }
   .logoo{
     font-size: 25px;
     font-family: Lobster;
