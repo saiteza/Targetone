@@ -9,6 +9,8 @@ before redirecting to the link please know the working flow of the target which 
 
 
 in particular link https://saiteza.github.io/Targetone/, the left side consists of two adobe target Activities
+
+
 1.A/B test(A/B)
 2. Experience Targeting (XT) 
 
