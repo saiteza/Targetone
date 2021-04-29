@@ -22,7 +22,7 @@ in particular link https://saiteza.github.io/Targetone/, the left side consists 
 
  🚀 Experience Targeting (XT)
      the second block space was used for Experience Targeting (XT)  which will consider the HYD location AUDIENCE
-     and displays the offer for particular Hyderabad offers
+     and displays particular Hyderabad offers
      
    
  ✅ https://saiteza.github.io/Targetone/    
