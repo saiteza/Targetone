@@ -1,4 +1,13 @@
 
+
+window.targetGlobalSettings = {
+
+  cookieDomain: "saiteza.github.io"
+
+};
+
+
+
 targetPageParamsAll = function() { 
   return { 
     "a": 1, 
